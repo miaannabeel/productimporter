@@ -1,6 +1,14 @@
 # ProductImporter
 October CMS Product Import from JSON Export (etsy)
 
+# Installation
+* Extract to Plugins Directory
+* Run ```php artisan october:up```
+* Make post call to ```/api/import ``` with data in below mentioned format with following form-data:
+    * login (plain text, backend user's user_name/login)
+    * password (plain text, backend user's password)
+    * file_name (file, JSON file with below mentioned content)
+
 # Example of JSON
 ```yaml
 {
