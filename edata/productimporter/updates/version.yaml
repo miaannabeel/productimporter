@@ -1,0 +1,8 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table edata_productimporter_files'
+    - builder_table_create_edata_productimporter_files.php
+1.0.3:
+    - 'Update table lovata_reviews_shopaholic_reviews'
+    - builder_table_update_lovata_reviews_shopaholic_reviews.php

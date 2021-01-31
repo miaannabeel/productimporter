@@ -1,0 +1,15 @@
+columns:
+    org_file_name:
+        label: 'File Name'
+        type: text
+    user_name:
+        label: 'Created By'
+        type: text
+    created_at:
+        label: 'Created At'
+        type: datetime
+        sortable: true
+    status:
+        label: 'Current Status'
+        type: text
+        sortable: true

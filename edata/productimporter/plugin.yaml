@@ -1,0 +1,11 @@
+plugin:
+    name: 'edata.productimporter::lang.plugin.name'
+    description: 'edata.productimporter::lang.plugin.description'
+    author: Edata
+    icon: oc-icon-exchange
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Imports
+        url: edata/productimporter/imports/
+        icon: icon-exchange

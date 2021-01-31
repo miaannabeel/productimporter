@@ -1,0 +1,4 @@
+title: Imports
+modelClass: Edata\ProductImporter\Models\Files
+toolbar:
+    buttons: reorder_toolbar
